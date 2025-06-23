@@ -55,7 +55,8 @@ La ESP32 aloja un servidor web simple que presenta una interfaz gráfica donde e
 
 
 ---
-
+se adjunta tambien el link al github: https://github.com/liquidlions/sistema-de-riego-autom-tico
+---
 ## Autores
 - Ian Nicolás Bolívar Fonseca  
 - Miller Esteban Bohorquez Novoa  
