@@ -53,7 +53,6 @@ La ESP32 aloja un servidor web simple que presenta una interfaz gráfica donde e
 - Conocer el estado actual del sistema de riego.
 - Activar manualmente el riego desde la interfaz (opcional).
 
-Esta interfaz es accesible desde cualquier dispositivo conectado a la misma red local, sin necesidad de aplicaciones externas ni conexión a Internet.
 
 ---
 
