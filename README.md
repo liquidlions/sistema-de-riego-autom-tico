@@ -24,7 +24,7 @@ Diseñar e implementar un sistema automatizado de monitoreo y riego inteligente 
 - Desarrollar una interfaz web local accesible desde la red Wi-Fi.
 - Probar el sistema en un entorno de huerta casera simulado.
 
-## 🔧 Componentes a utilizar
+## Componentes a utilizar
 
 ### Hardware
 
